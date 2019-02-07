@@ -1,3 +1,4 @@
+//Tantangan Array 2 (Melooping menggunakan Array)
 //contoh input
 var input = [
     ["0001", "Roman Alamsyah", "Bandar Lampung", "21/05/1989", "Membaca"],
