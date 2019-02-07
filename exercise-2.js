@@ -1,3 +1,4 @@
+//Tantangan Array 1 (Mengakses Nilai dalam Array)
 //input "hello world!"
 var input = 'hello world!';
 var inputArray = input.split('');
