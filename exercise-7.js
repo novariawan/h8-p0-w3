@@ -1,4 +1,4 @@
-// Hitung Jumlah Kata
+// Logic Challenge - Hitung Jumlah Kata
 function hitungJumlahKata(kalimat) {
     // console.log(kalimat);
     var kataKata = kalimat.split(' ');
