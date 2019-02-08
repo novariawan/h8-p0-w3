@@ -1,4 +1,4 @@
-// Pasangan Angka Terbesar
+// Logic Challenge - Pasangan Angka Terbesar
 
 function pasanganTerbesar(num) {
 //    var input = num;
